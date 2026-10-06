@@ -1,0 +1,19 @@
+/* Web2Risk - https://coolors.co/fddb00-ffffff-568ea3-68c3d4-313638 */
+
+/* CSS HEX */
+:root {
+--school-bus-yellow: #fddb00ff;
+--white: #ffffffff;
+--air-force-blue: #568ea3ff;
+--sky-blue: #68c3d4ff;
+--onyx: #313638ff;
+}
+
+/* CSS HSL */
+:root {
+--school-bus-yellow: hsla(52, 100%, 50%, 1);
+--white: hsla(0, 0%, 100%, 1);
+--air-force-blue: hsla(196, 31%, 49%, 1);
+--sky-blue: hsla(189, 56%, 62%, 1);
+--onyx: hsla(197, 7%, 21%, 1);
+}
