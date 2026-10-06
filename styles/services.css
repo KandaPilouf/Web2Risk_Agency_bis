@@ -1,0 +1,27 @@
+#services {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  column-gap: 24px;
+  row-gap: 32px;
+  align-content: start;
+  overflow: hidden;
+}
+
+#services figure {
+  height: 100%;
+  width: 100%;
+  grid-column: 4/7;
+  margin: 2rem;
+
+  filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.1));
+}
+
+#services figure img {
+  width: 100%;
+}
+
+#services p {
+  grid-column: 1/4;
+  margin: 0;
+  padding: 2rem;
+}

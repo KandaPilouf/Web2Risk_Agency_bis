@@ -1,0 +1,14 @@
+#hero {
+    width: 100dvw;
+    height: 100dvh;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero figure {
+    margin: 0;
+}
+
+#hero img {
+    width: 100%;
+}
